@@ -29,5 +29,6 @@ print(type(height))
 human=True
 print(human)
 print(type(human))
-print(f"your name is; {name}")
-print(f"your are; {age} years old")
+print(f"your name is {name}")
+print(f"your are {age} years old")
+#so basically these are python variables that is int , string , bool, float 
